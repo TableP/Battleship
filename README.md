@@ -1,4 +1,4 @@
-# Battleship
+# Battleships in Java
 A simple 2 player battleship game that can be played in the terminal. 
 
 ## How to Play
